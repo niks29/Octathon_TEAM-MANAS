@@ -1,0 +1,2 @@
+# Octathon_TEAM-MANAS
+Problem Statement- Identification of objects at a particular signal to manage the time of signals to control the traffic using Artificial Intelligence.Using object detection, artificial intelligence and the related objects to control the traffic on the road. Propose the solution using machine learning algorithms and data science. Object detection can be implemented using the You Only Look Once (YOLO) algorithm method. Solution must be based on model building
